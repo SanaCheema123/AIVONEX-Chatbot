@@ -1,4 +1,6 @@
-3 AI — Full-Stack Job Application Assistant
+## AI — Full-Stack Job Application Assistant##
+
+<img width="1912" height="912" alt="aivonex chatbot" src="https://github.com/user-attachments/assets/500b14b6-7ae5-4e30-985f-b6814ae5b46a" />
 
 Tech Stack: React 18 + Vite (frontend) | FastAPI + Python (backend) | Claude Sonnet (AI) | python-docx + ReportLab (documents)
 
